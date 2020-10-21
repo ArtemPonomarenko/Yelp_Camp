@@ -1,0 +1,25 @@
+.campgrounds {
+  padding-top: 3%;
+}
+.delete-btn-form {
+  display: inline-block;
+}
+.add-comment-btn {
+  margin: 2% 0;
+}
+.btns {
+  margin: 2% 0;
+}
+.caption-full {
+  padding: 0 2%;
+}
+.comment {
+  padding: 0 2%;
+}
+.campground-card {
+  margin-bottom: 2rem;
+}
+.campground-card img {
+  width: 100%;
+  max-height: 100%;
+}
